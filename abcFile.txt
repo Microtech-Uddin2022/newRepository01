@@ -1,0 +1,2 @@
+when i wrote touch abc.txt then automatically create file.
+then i wrote start abefile.txt showed me the file.
