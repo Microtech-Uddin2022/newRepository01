@@ -6,8 +6,5 @@ public class NewGitHubMethod {
         System.out.println(" First line added");
         System.out.println(" Second line added");
         System.out.println(" Third line added");
-
-        System.out.println(" Second line added");
-        System.out.println(" Third line added");
     }
 }
