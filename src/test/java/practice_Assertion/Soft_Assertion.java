@@ -37,10 +37,10 @@ public class Soft_Assertion {
         // testNG soft assertion
         soft.assertTrue(driver.getTitle().equals("MicroTech NAi"));// soft.asserAll();
         Thread.sleep(1000);
-        System.out.println("XXXXXXXX");
+
         System.out.println("1st line test");
         System.out.println("2nd line added");
-
+        System.out.println("3rd line added");
         // testNG Assertion ....Hard
         Assert.assertTrue(driver.getTitle().equals("MicroTech NA"));
         Thread.sleep(2000);
