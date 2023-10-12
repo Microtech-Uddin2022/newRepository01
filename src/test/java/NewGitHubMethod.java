@@ -4,7 +4,11 @@ public class NewGitHubMethod {
         System.out.println("We are creating new line");
         System.out.println("We also added another line");
 
+
+
         System.out.println(" Third line added");
         System.out.println("4th Line added");
+        System.out.println("We are creating 10 line");
+        System.out.println("We also added another 11 line");
     }
 }
